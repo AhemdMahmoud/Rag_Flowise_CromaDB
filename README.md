@@ -12,6 +12,9 @@ This project crawls, processes, and vectorizes AWS FAQ content to create a searc
 - **LLM Integration**: Compatible with LangFlow/Flowise visual workflow systems
 - **Conversational AI**: Build Q&A systems around AWS documentation
 
+# AWS FAQ Knowledge Base Workflow
+![image](https://github.com/user-attachments/assets/850f4660-763e-43e4-80e3-eb5932849b7e)
+
 ## 📋 Prerequisites
 
 - Python 3.7+
@@ -171,8 +174,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 💡 Visual Workflow Integration
 
 This project integrates with visual workflow tools to create conversational AI systems around AWS documentation. Below is an example workflow using LangFlow:
-# AWS FAQ Knowledge Base Workflow
-![image](https://github.com/user-attachments/assets/850f4660-763e-43e4-80e3-eb5932849b7e)
+
 
 
 The workflow consists of:
